@@ -11,7 +11,7 @@ labels:
 
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="https://imgur.com/gallery/5xd72Jv">
+<img width="300px" class="rounded float-start pe-4" src="https://i.imgur.com/zpGR0iF.jpeg">
 
 ## Why is Javascript so popular?
 
