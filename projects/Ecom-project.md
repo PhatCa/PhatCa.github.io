@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/manga-selling-project.jpg
+image: img/manga-selling-project.png
 title: "Manga Selling Website"
 date: 2023
 published: true
