@@ -45,11 +45,11 @@ should do our own "homework". Using sources such as W3W, Mdn Web doc or maybe ju
 provide the code or algorithm that you are working on, your attempt, and the output.
 
 As an example for a good question [here](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454) is one:
-<img width="600px" class="rounded float-start pe-4" src="../img/smartQuestion.png">
+<img width="600px" class="rounded  pe-4" src="../img/smartQuestion.png">
 
 In this particular question, it shows that the author has done their homework and uses the right tone to ask for help.
 As a result, the author gets many good or "smart" answers :
-<img width="600px" class="rounded float-start pe-4" src="../img/smartAnswer.png">
+<img width="600px" class="rounded  pe-4" src="../img/smartAnswer.png">
 
 
 ##Important Key:
