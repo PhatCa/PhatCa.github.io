@@ -32,7 +32,7 @@ One of the easiest ways to get help is to ask. However, the crucial aspect lies 
 ## What is a smart question?
 Let's take a step in the opposite direction for this question. What is a not-smart question? 
 Here is an [example](https://stackoverflow.com/questions/77884267/what-to-do-after-learning-python):
-<img width="300px" class="rounded float-start pe-4" src="https://i.imgur.com/zpGR0iF.jpeg">
+<img width="300px" class="rounded  pe-4" src="../img/notSmartQuestion.png">
 
 So what is not so smart here?
 The question here is not really "appropriate". We don't know anything about the author besides they are learning about Python but the question is "How can I start freelancing 
@@ -46,11 +46,11 @@ should do our own "homework". Using sources such as W3W, Mdn Web doc or maybe ju
 provide the code or algorithm that you are working on, your attempt, and the output.
 
 As an example for a good question [here](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454) is one:
-<img width="300px" class="rounded float-start pe-4" src="https://i.imgur.com/zpGR0iF.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="../img/smartQuestion.png">
 
 In this particular question, it shows that the author has done their homework and uses the right tone to ask for help.
 As a result, the author gets many good or "smart" answers :
-<img width="300px" class="rounded float-start pe-4" src="https://i.imgur.com/zpGR0iF.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="../img/smartAnswer.png">
 
 
 ##Important Key:
