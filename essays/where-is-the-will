@@ -1,0 +1,59 @@
+---
+layout: essay
+type: essay
+title: "Where is the will?"
+# All dates must be YYYY-MM-DD format!
+date: 2023-01-25
+published: true
+labels:
+  - Coding
+  - Developer
+
+---
+
+<img width="300px" class="rounded float-start pe-4" src="https://i.imgur.com/zpGR0iF.jpeg">
+
+## Where is the will?
+
+Let's start this with a question, what make you want to become a software engineer, a developer or more general the field of computer science? Is it because of high salary?
+Or the remote work?
+Or maybe the career options you could take after graduating with the degree?
+Despite all of those benefit that people will think about the field, software engineering also comes with some cons.
+One of the most annoying thing you will have to face is stucking with a problem. Whether it could be a bug from a code
+or the algorithm isn't what you want. Lucky for our generation, internet have all the solution! or does it?
+
+## How to solve my BUG?
+
+One of the most popular site that a lots of software engineer major use is through stack overflow whenever they ran into a problem.
+The site contain a vast amount of knowledge a junior software engineer could have asked for. From algorithm to coding, from Java, HTML or CSS , etc.
+There are many post on the site that could answer your question. But what would you do if there is solution to the problem that you were looking for?
+One of easiest way to get help is to ask. However, the crucial aspect lies in the manner of asking these question and turning them into "smart question".
+
+## What is a smart question?
+Let's take a step to the opposite direction for this question. What is a not smart question? 
+Here is an [example](https://stackoverflow.com/questions/77884267/what-to-do-after-learning-python):
+<img width="300px" class="rounded float-start pe-4" src="https://i.imgur.com/zpGR0iF.jpeg">
+
+So what is not so smart here?
+The question here is not really "appropriate". We don't know anything about the author beside they are learning about python but the question is "how can I start freelancing 
+through python or can I start game development". The author did not give any information about their coding background, their interest and how they feel about python. Instead 
+they are giving some unnecessary information such as "remember I mind I am in 9th class". The key here to help improve this is to do more research before you ask the question.
+Author could simply search the requirement language stack for specific field they might have interest in and it would give them a language stack in which they could take a look
+and decided if that is what they wanted or not. As a result, people did not know how to respond to this question and it is still on hold for answer.
+
+Now let's go back into our main topic here "What is a smart question?". At this point, I believe we could all agree that before asking any questions, we as a good software engineer
+should do our own "homework". Using sources such as W3W, Mdn Web doc or maybe just the Documentation from the framework that you are using might help. Another helpful tips is to 
+provide the code or algorithm that you are working on, your attemp and the output.
+
+As an example for a good question [here](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454) is one:
+<img width="300px" class="rounded float-start pe-4" src="https://i.imgur.com/zpGR0iF.jpeg">
+
+In this particular question, it shown that the author have done their homework and using the right tone to ask for help.
+As a result the author get many good or "smart" answers :
+<img width="300px" class="rounded float-start pe-4" src="https://i.imgur.com/zpGR0iF.jpeg">
+
+
+##Important Key:
+Asking other online source and maybe your skilled friend could help you get started and might point you to the right direction. Make sure to complete your "homework" before asking
+and use appropriate tone with the question will help you get more "smart" answer.
+
