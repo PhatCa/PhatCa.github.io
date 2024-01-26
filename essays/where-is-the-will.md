@@ -48,7 +48,7 @@ As an example for a good question [here](https://stackoverflow.com/questions/173
 <img width="600px" class="rounded  pe-4" src="../img/smartQuestion.png">
 
 In this particular question, it shows that the author has done their homework and uses the right tone to ask for help.
-As a result, the author gets many good or "smart" answers :
+As a result, the author received many good or "smart" answers :
 <img width="600px" class="rounded  pe-4" src="../img/smartAnswer.png">
 
 
