@@ -32,7 +32,7 @@ One of the easiest ways to get help is to ask. However, the crucial aspect lies 
 ## What is a smart question?
 Let's take a step in the opposite direction for this question. What is a not-smart question? 
 Here is an [example](https://stackoverflow.com/questions/77884267/what-to-do-after-learning-python):
-<img width="300px" class="rounded  pe-4" src="../img/notSmartQuestion.png">
+<img width="full" class="rounded  pe-4" src="../img/notSmartQuestion.png">
 
 So what is not so smart here?
 The question here is not really "appropriate". We don't know anything about the author besides they are learning about Python but the question is "How can I start freelancing 
