@@ -11,7 +11,7 @@ labels:
 
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="https://i.imgur.com/zpGR0iF.jpeg](https://woz-u.com/wp-content/uploads/2022/06/Evolution-of-Coding-scaled.jpg">
+<img width="300px" class="rounded float-start pe-4" src="https://woz-u.com/wp-content/uploads/2022/06/Evolution-of-Coding-scaled.jpg">
 
 ## What is the coding standard?
 
