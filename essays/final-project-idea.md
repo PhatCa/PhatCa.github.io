@@ -11,7 +11,8 @@ labels:
 
 ---
 
-
+# Happy Hour Finding
+Team member: Phat Ca, Adam Windfield-Smith, Jason Aguda, Christian Yang
 
 ## Overview (including “The problem” and “The solution”)
 
