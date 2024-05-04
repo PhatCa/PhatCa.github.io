@@ -52,7 +52,7 @@ When writing my code, I tend to leave a comment as I know it is good practice si
 Typically, I'm satisfied with my coding style and haven't utilized ChatGPT for assistance in this area. However, upon reflection, I believe ChatGPT could be beneficial. It might aid in condensing certain sections of my code into shorter, more concise versions. Exploring alternative methods through ChatGPT's insights could be valuable, providing me with a fresh perspective on different approaches to coding.
 ## 14. Other uses in ICS 314 not listed above
 I did not use ChatGPT in ICS 314 other than listed above
-## III. Impact on Learning and Understanding:
+# III. Impact on Learning and Understanding:
 Using AI tools like ChatGPT and Grammarly has had a big impact on how I learn in ICS 314. While I mainly learn by trying things on my own, ChatGPT has been super helpful when I get stuck on coding problems. It's like having a smart tutor that explains things in a way I can understand. Grammarly has also been great for improving my writing, making it clearer and easier to read. These tools have helped me grasp tricky concepts in software engineering, like React hooks and JavaScript syntax. Plus, they made managing our final project a lot smoother, helping our team work better together. Overall, using AI tools has not only helped me solve problems but also encouraged me to keep learning and improving.
 
 # IV. Practical Applications:
