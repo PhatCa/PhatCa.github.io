@@ -26,33 +26,33 @@ UI Frameworks, such as Bootstrap 5, one of the main reasons why people use it is
 
 I have used AI in class this semester in the following areas:
 
-  ###1. Experience WODs e.g. E18
+  ### 1. Experience WODs e.g. E18
 	For the most part, I made a effort to tackle the WOD tasks without relying on AI. My reasoning was simple: I believed that true learning comes from making mistakes and learning from them firsthand. So, I took the challenges head-on, aiming to grasp the syntax and concepts without external assistance. In the initial stages of the semester, AI tools took a backseat in my learning journey as I prioritized building a solid foundation through independent problem-solving. This approach allowed me to develop a deeper understanding of the subject matter and hone my skills organically.
-  ###2. In-class Practice WODs
+  ### 2. In-class Practice WODs
 	With that same belief in mind, I stuck to practicing WODs and homework independently as much as possible. However, there were moments when I found myself grappling with a problem for an extended period. In such cases, after spending more than thirty minutes trying to figure it out on my own, I turned to ChatGPT for assistance. I compared this choice to seeking assistance with a difficult math problem. Sometimes, a gentle push in the right direction is all you need to identify where you've made a misstep.
-  ###3. In-class WODs
+  ### 3. In-class WODs
 	Through practicing WODs, I developed the ability to complete the in-class WODs of the week independently, without relying on ChatGPT. However, there were instances when time constraints led me to seek assistance from ChatGPT to finish up. Reflecting on this, I realized that resorting to ChatGPT midway through a task was less effective than using it from the outset. This approach required creating a prompt to align its understanding with my code, adding an extra layer of complexity. Nonetheless, I found that the clear instructions provided for the WODs, coupled with the practice I had done, largely sufficed in guiding me through the tasks.
-  ###4. Essays
+  ### 4. Essays
 I relied on Grammarly for all my essays, finding it very helpful  in rectifying any grammar issues. Typically, I would draft my essay and then apply Grammarly to polish it up, refining the language to ensure clarity and coherence. 
-  ###5. Final project
+  ### 5. Final project
 	For our final project, I heavily relied on ChatGPT to streamline our workflow. I used it to create schedules, outline tasks, and allocate responsibilities to group members based on their proficiency in web development and understanding of front-end and back-end concepts. By providing ChatGPT with prompts about our website's requirements, the necessary pages, and information about my teammates, it effectively assisted me in organizing and prioritizing tasks.
-  ###6. Learning a concept/tutorial
+  ### 6. Learning a concept/tutorial
 	I used ChatGPT to explain some of the hooks in React when I found them hard to understand even after going through their docs. Having it break down what hook is and the use of them. Moreover, ChatGPT explained the ideal file structure for Meteor projects, empowering me to navigate and organize my code effectively.
-  ###7. Answering a question in class or in Discord
+  ### 7. Answering a question in class or in Discord
 	I did not use AI in this field since our colleague, TA, and professors in the Discord group are always able to help with other’s questions
-  ###8. Asking or answering a smart question
+  ### 8. Asking or answering a smart question
 	I did not use AI in this field. I tend to my problem on my own rather than post in the chat. I choose to go over the docs for most of the time and if I still don't get the problem solved or understand the concept then ChatGPT or Stackoverflow are my next resources.
-  ###9. Coding example e.g. “Give an example of using Underscore .pluck”
+  ### 9. Coding example e.g. “Give an example of using Underscore .pluck”
 	I found ChatGPT efficient in explaining the Underscore library and it was helpful for me to use ChatGPT as a lookup for which function I need in different cases in the practice WODs
-  ###10. Explaining code
+  ### 10. Explaining code
 	I used ChatGPT to explain the Underscore library and in syntax explanation when I have an error in my code or eslint
-  ###11. Writing code
+  ### 11. Writing code
 	I didn’t use ChatGPT to write out any code block without writing it first so the majority of the time I use it to correct my code rather than have it generate a whole code
-  ###12. Documenting code
+  ### 12. Documenting code
 	When writing my code, I tend to leave a comment as I know it is good practice since it would allow other people to know which code is doing what and I did not use ChatGPT in this field
-  ###13. Quality assurance 
+  ### 13. Quality assurance 
 	Typically, I'm satisfied with my coding style and haven't utilized ChatGPT for assistance in this area. However, upon reflection, I believe ChatGPT could be beneficial. It might aid in condensing certain sections of my code into shorter, more concise versions. Exploring alternative methods through ChatGPT's insights could be valuable, providing me with a fresh perspective on different approaches to coding.
-  ###14. Other uses in ICS 314 not listed above
+  ### 14. Other uses in ICS 314 not listed above
 	I did not use ChatGPT in ICS 314 other than listed above
 ## III. Impact on Learning and Understanding:
 Using AI tools like ChatGPT and Grammarly has had a big impact on how I learn in ICS 314. While I mainly learn by trying things on my own, ChatGPT has been super helpful when I get stuck on coding problems. It's like having a smart tutor that explains things in a way I can understand. Grammarly has also been great for improving my writing, making it clearer and easier to read. These tools have helped me grasp tricky concepts in software engineering, like React hooks and JavaScript syntax. Plus, they made managing our final project a lot smoother, helping our team work better together. Overall, using AI tools has not only helped me solve problems but also encouraged me to keep learning and improving.
