@@ -22,8 +22,6 @@ AI or Artificial Intelligence has been bigger than ever in education, especially
 
 # II. Personal Experience with AI:
 
-UI Frameworks, such as Bootstrap 5, one of the main reasons why people use it is because of how simple it is to use after a user already familiar with the coding stack, the learning challenge, in my opinion, is not that hard if software developers are already familiar with HTML, CSS, and Javascript. Another worth mentioning is Bootstrap has one of the greatest documentation and a large community of developers that still working on and improving it over time. Bootstrap helps software developers to developer to get their front end part up with ease of time with features such as responsive where developers can just design from mobile and it takes only a few tweaks to make the website front end look good on a larger screen.
-
 I have used AI in class this semester in the following areas:
 
 ## 1. Experience WODs e.g. E18
