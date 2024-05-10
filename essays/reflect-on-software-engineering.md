@@ -12,7 +12,7 @@ labels:
 
 ---
 
-<img width="300px" class="https://res.cloudinary.com/practicaldev/image/fetch/s--V0ekZaVJ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg">
+<img width="300px" class="rounded float-start pe-4" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2wuaNbKisxwvTwSMuugQqRl6WmVxc1YHR2oxYNpeQSg&s">
 
 
 # I. Introduction
