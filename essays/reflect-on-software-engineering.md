@@ -7,12 +7,12 @@ date: 2024-05-09
 published: true
 labels:
   - Software Engineering
-  - AI
+  - Web Development
   - Education
 
 ---
 
-<img width="300px" class="https://usa.bootcampcdn.com/wp-content/uploads/sites/106/2020/08/CDG_blog_post_image_01.jpg">
+<img width="300px" class="https://res.cloudinary.com/practicaldev/image/fetch/s--V0ekZaVJ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg">
 
 
 # I. Introduction
