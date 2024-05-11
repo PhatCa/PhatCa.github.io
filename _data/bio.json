@@ -24,7 +24,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Javascript", "Python", "HTML", "CSS", "Node.js", "Django" ]
+      "keywords": [ "Javascript", "Python", "HTML", "CSS", "Node.js", "Django","React","MeteorJS" ]
     },
     {
       "name": "Toolsets/OS",
