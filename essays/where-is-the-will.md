@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Where is the will?"
 # All dates must be YYYY-MM-DD format!
-date: 2023-01-25
+date: 2024-01-25
 published: true
 labels:
   - Coding
