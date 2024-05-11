@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/prof-tcg.png
+image: img/project-pic.png
 title: "Professor Trading Card Game (Prof TCG)"
 date: 2024
 published: true
