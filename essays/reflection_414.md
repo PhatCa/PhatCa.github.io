@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: "Reflection 414"
-# All dates must be YYYY-MM-DD format!
 date: 2025-05-11
 published: true
 labels:
@@ -11,9 +10,6 @@ labels:
   - Education
 
 ---
-
-<img width="300px" class="rounded float-start pe-4" src="https://miro.medium.com/v2/resize:fit:1400/1*kUKiJUFeCs4rKjjGNUtvUQ.png">
-
 
 # I. Introduction
 
