@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "Phat Ca",
+    "label": "Student",
+    "picture": "https://github.com/phatca.png",
+    "email": "phatca@hawaii.edu",
+    "phone": "808-469-9033",
+    "website": "https://PhatCa.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "931 Paaaina", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "PhatCa", "url": "http://github.com/PhatCa" },
+      { "network": "linkedin", "username": "Phat Ca", "url": "https://www.linkedin.com/in/phat-ca/" },
+      
+    ]
+  },
+  "interests": [
+    { "name": "Software Development" },
+    { "name": "Video Game Developer" },
+    { "name": "Anime" },
+    { "name": "Robotics" },
+    { "name": "3D Graphics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Javascript", "Python", "HTML", "CSS", "Node.js", "Django","React","MeteorJS" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS",  "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2026)",
+      "studyType": "B.A.",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "OppKey",
+      "position": "Web Developer Intern",
+      "website": "http://www.oppkey.com",
+      "startDate": "2023-11-01",
+      "endDate": "Present",
+      "summary": "Internship for Software Development",
+      "highlights": [
+       
+        "Design and maintain Oppkey webpage",
+        "Fullstack development",
+      ]
+    },
+    {
+      "company": "Home Depot",
+      "position": "Customer Service",
+      "website": "http://www.homedepot.com",
+      "startDate": "2021-01-01",
+      "endDate": "present",
+      "summary": "Helping customer with return and online order",
+      "highlights": [
+        "Helping customer as a team to fulfill their order"
+      ]
+    }
+  ],
+ 
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
