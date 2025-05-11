@@ -12,7 +12,6 @@ labels:
 
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="https://miro.medium.com/v2/resize:fit:1400/1*kUKiJUFeCs4rKjjGNUtvUQ.png">
 
 
 # I. Introduction
