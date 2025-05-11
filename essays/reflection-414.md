@@ -1,28 +1,35 @@
 ---
 layout: essay
 type: essay
-title: "Design Pattern"
+title: "Reflection 414"
 # All dates must be YYYY-MM-DD format!
-date: 2024-04-25
+date: 2025-05-11
 published: true
 labels:
-  - Coding
-  - Framework
-  - Design Pattern
+  - Software Engineering
+  - Web Development
+  - Education
 
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2wuaNbKisxwvTwSMuugQqRl6WmVxc1YHR2oxYNpeQSg&s">
 
 
-## My Experience With New Design Patterns
+# I. Introduction
 
-Design patterns are like secret codes that help us talk to each other in the programming world. I remember when I started using framework like Python’s Django, figuring out how its files were organized and noticing the patterns made it way easier for me to understand. When I tried other frameworks later on like Meteor js, I could still see those same patterns from Django, and it made learning them quicker. So, what exactly are design patterns, and how did they make it easier for me to switch from using Python's Django framework to working with Meteor.js and React in JavaScript?
+At the beginning of ICS 414, I was assigned to work on a business internal application aimed at replacing the traditional spreadsheet workflow. Our client had been using Excel Sheets to manage data, and our team was tasked with building a more robust system to streamline their operations. As a member of the backend team, my primary responsibilities included designing the database structure and implementing APIs to support the application's functionality. We were introduced to the client and given access to their Excel Sheet, but much of the process, from understanding the data to planning the architecture, was left for us to figure out independently.
+
+## II. Challenge
 
 
-## What Design Pattern really is?
+One of the first challenges we encountered stemmed from the technical background of the students enrolled in the course. Some of my teammates had taken a prerequisite course last semester (ICS 314), where they used Next.js and PostgreSQL, but the same course a year ago used Meteor and MongoDB. This shift in tech stack caused some difficulty, especially when trying to ensure everyone was on the same page in terms of technology and best practices.
 
-Design patterns act as blueprints for programmers, providing tried-and-tested solutions to common problems. As I explored the intricacies of various frameworks, I began to see recurring patterns emerge, forming a common thread across different coding environments. These patterns weren't just about syntax or structure; they were about understanding the underlying principles that govern software design. Whether it was Django's MVC architecture or Meteor.js's reactive paradigm, grasping these patterns enabled me to adapt and thrive in diverse coding landscapes. So, while design patterns may seem like abstract concepts at first, they are the building blocks that empower programmers to navigate the ever-changing seas of technology.
 
-## What did I use in my project?
-In my Meteor.js React project, I primarily follow two key design patterns: Component Composition and Container-Presentational Component Separation. I leverage React's emphasis on composition over inheritance, which allows me to build complex user interfaces by combining smaller, reusable components. This approach enhances modularity and simplifies code maintenance by breaking down UI elements into manageable pieces. Additionally, I adhere to the container-presentational component pattern, where container components handle data fetching and state management logic, while presentational components focus solely on rendering UI elements based on the props they receive. By organizing my components in this manner, I promote code reusability, maintainability, and a clear separation of concerns within my Meteor.js React project.
+Another significant challenge was interpreting the Excel Sheet provided by the client. As a computer science student, I am more accustomed to working with code and less familiar with spreadsheets used in business operations. It was initially difficult to wrap my head around the structure, logic, and intent behind the sheet’s organization. Thankfully, one of my teammates had prior experience working with spreadsheets and played a crucial role in guiding the backend team through this learning curve. Their insight helped us better understand the client's needs and translate the spreadsheet format into a structured database schema.
+
+
+## III. Result and Contribution
+
+
+Despite the initial challenges, I was able to make meaningful contributions to the project. My main focus was on backend development, where I designed data models to effectively store and manage the application’s core information. I also implemented the API endpoints needed to support the frontend features and ensured data integrity throughout. Additionally, I took the lead in managing pull requests, resolving merge conflicts, and maintaining clean and functional code within our GitHub repository.
+
+Beyond technical tasks, I contributed to team coordination by documenting our weekly progress, summarizing meetings in our Discord group, and presenting backend updates during Customer Milestone. These efforts helped keep our team aligned and ensured the client remained informed of our development milestones. In the end, I gained valuable experience not only in backend development but also in communication and problem-solving within a real-world project environment.
